@@ -16,6 +16,11 @@ By the end of this lab, your group should have:
 
 ---
 
+## Activity Diagram 
+
+<img width="1536" height="1024" alt="Activity" src="https://github.com/user-attachments/assets/e01d96de-b88b-45f0-8dd9-e25649773d63" />
+
+
 ## Group Setup
 
 Work in groups.
